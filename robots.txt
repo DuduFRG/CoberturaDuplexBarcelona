@@ -1,17 +1,3 @@
 User-agent: *
 Allow: /
-
-# AI crawlers
-User-agent: GPTBot
-Allow: /
-
-User-agent: Claude-Web
-Allow: /
-
-User-agent: anthropic-ai
-Allow: /
-
-User-agent: PerplexityBot
-Allow: /
-
-Sitemap: https://cobertura-floripa.github.io/sitemap.xml
+Sitemap: https://dudufrg.github.io/BarcelonaDuplex/sitemap.xml
